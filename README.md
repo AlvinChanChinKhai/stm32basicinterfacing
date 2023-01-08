@@ -6,12 +6,16 @@ Next, display the value of the 4-bit DIP switch . Use hex or binary notation. Ex
 Hello World
 <br>
 0110
+<br>
 Hello World
+<br>
 0111
+<br>
 
 
 Update the display ONLY when the switch value changes
-
+<br>
+<br>
 
 Group Name: Savvy Falcon
 
